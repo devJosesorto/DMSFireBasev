@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "731186852327",
+    "project_id": "fir-verificacion-5792f",
+    "storage_bucket": "fir-verificacion-5792f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731186852327:android:63b4911aba9698ee098d42",
+        "android_client_info": {
+          "package_name": "com.sorto.dmsfirebasev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731186852327-tbik3k5kbse091dqlt3pprg7bvftk8c5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg9e8S5TjH_rF58Gln0ZbVQbBlN8oa9ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731186852327-tbik3k5kbse091dqlt3pprg7bvftk8c5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731186852327:android:97419c1fe6512652098d42",
+        "android_client_info": {
+          "package_name": "com.sorto.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731186852327-tbik3k5kbse091dqlt3pprg7bvftk8c5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg9e8S5TjH_rF58Gln0ZbVQbBlN8oa9ZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731186852327-tbik3k5kbse091dqlt3pprg7bvftk8c5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
